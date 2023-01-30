@@ -98,6 +98,7 @@
 
 .row{
   text-align: center;
+  justify-content: center;
 }
 
 /* Mis últimos trabajos */
