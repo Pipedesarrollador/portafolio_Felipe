@@ -17,7 +17,7 @@
 
 #Hero-Section {
   height: 100vh;
-  background: url("../img/bg_hero.png");
+  background: url("../img/compu_mortal.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -94,6 +94,10 @@
 #Experiencia div:last-child article h4:last-child {
   font-family: "Open Sans";
   font-weight: 300;
+}
+
+.row{
+  text-align: center;
 }
 
 /* Mis últimos trabajos */
